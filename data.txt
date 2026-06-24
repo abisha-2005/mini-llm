@@ -1,0 +1,140 @@
+Artificial intelligence is transforming the world
+Artificial intelligence helps humans solve problems
+Machine learning is a subset of artificial intelligence
+Deep learning is part of machine learning
+Generative AI creates new content
+AI helps businesses make decisions
+AI is used in healthcare
+AI is used in education
+Machine learning helps prediction
+Deep learning uses neural networks
+Artificial intelligence powers chatbots
+AI powers recommendation systems
+AI can analyze large amounts of data
+AI systems learn patterns from examples
+Data is important for training AI models
+A model learns from training data
+A dataset contains many examples
+Machine learning algorithms find useful patterns
+AI can improve productivity
+AI can automate repetitive tasks
+AI can help developers write code
+AI can generate images from text
+AI can generate music from prompts
+AI can generate videos using AI models
+AI can summarize long documents
+AI can translate languages
+AI can answer questions
+AI can support customer service
+AI can detect fraud in banking
+AI can help doctors analyze medical images
+AI can help students learn faster
+AI can create personalized learning plans
+AI can predict future trends
+AI can analyze customer behavior
+AI can improve business operations
+AI can help farmers monitor crops
+AI can support smart cities
+AI can improve traffic management
+AI can help robots understand the environment
+AI can recognize faces in images
+AI can detect objects in videos
+Computer vision helps machines understand images
+Natural language processing helps machines understand text
+Speech recognition converts voice into text
+Text to speech converts text into voice
+A chatbot communicates using natural language
+Large language models understand human language
+LLMs are trained using large text datasets
+A prompt is an instruction given to an AI model
+Prompt engineering improves AI responses
+Tokens are small pieces of text used by language models
+Embeddings convert text into numerical vectors
+Vector databases store embeddings
+Retrieval augmented generation uses external knowledge
+RAG helps AI answer questions using documents
+Fine tuning improves a model for a specific task
+Training requires data and computing power
+GPUs help train deep learning models faster
+CPUs handle general computing tasks
+Neural networks contain layers of neurons
+Input layers receive data
+Hidden layers process information
+Output layers produce predictions
+Weights are values learned by a neural network
+Bias helps a neural network make better predictions
+Loss measures model prediction errors
+Gradient descent reduces model errors
+Epochs represent complete training cycles
+Batch size controls how much data is processed at once
+Overfitting happens when a model memorizes training data
+Underfitting happens when a model does not learn enough
+Validation data checks model performance
+Test data evaluates the final model
+Accuracy measures correct predictions
+Precision measures prediction quality
+Recall measures how many positive cases are found
+Classification predicts categories
+Regression predicts numerical values
+Clustering groups similar data points
+Supervised learning uses labeled data
+Unsupervised learning uses unlabeled data
+Reinforcement learning learns from rewards
+AI agents can perform tasks automatically
+An AI agent can use tools
+AI agents can plan multiple steps
+Multi agent systems use several AI agents
+Automation saves time and effort
+AI workflows connect tools and models
+APIs allow applications to communicate
+Python is popular for artificial intelligence
+Python is used for machine learning projects
+TensorFlow is a deep learning framework
+PyTorch is a deep learning framework
+Scikit learn is used for machine learning
+Pandas helps analyze data
+NumPy helps perform numerical calculations
+Matplotlib helps create data visualizations
+OpenCV helps process images and videos
+Flask can create AI web applications
+FastAPI can build fast backend APIs
+React can create AI user interfaces
+Databases store application data
+MongoDB is a NoSQL database
+MySQL is a relational database
+Cloud computing provides remote resources
+Local AI runs models on personal computers
+Offline AI protects user privacy
+Ollama helps run language models locally
+Quantization reduces model size
+Quantized models use less memory
+Small language models can run on laptops
+Large models require more RAM and GPU memory
+AI safety is important
+Responsible AI protects users
+AI should be fair and transparent
+AI should respect privacy
+AI should not spread harmful information
+Humans should review important AI decisions
+AI can assist humans but should not replace human judgment
+The future of AI is powerful and exciting
+AI will create new career opportunities
+Learning AI skills is valuable
+AI developers build intelligent systems
+Data scientists analyze data using AI
+Machine learning engineers deploy AI models
+Prompt engineers design better prompts
+AI researchers create new algorithms
+AI can help solve global challenges
+AI can support climate research
+AI can improve renewable energy systems
+AI can help discover new medicines
+AI can support space exploration
+AI can make software development faster
+AI can help create futuristic applications
+AI systems need good quality data
+Better data creates better AI models
+AI models improve through testing
+Continuous learning improves AI systems
+Innovation begins with curiosity
+Technology can create a better future
